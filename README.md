@@ -1,4 +1,4 @@
-# Rust Guessing Game
+# Guessing Game
 
 This is a simple implementation of a guessing game written in Rust. The game generates a random number between 1 and 100, and the player's goal is to guess the number with the fewest attempts possible. After each guess, the game informs the player whether the guess was too high, too low, or correct.
 
@@ -15,11 +15,9 @@ What you need to install the software:
 
 ### Installing
 
-A step-by-step series of examples that tell you how to get a development env running:
-
 Clone the repository to your local machine:
 ```
-git clone https://github.com/abigailajon/Guessing_game.git
+git clone https://github.com/abigailajohn/Guessing_game.git
 ```
 
 Change into the project directory:
